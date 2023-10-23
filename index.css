@@ -42,6 +42,7 @@ header  {
         float: left;
        margin-right: 20px;
        text-align: right;
+       list-style-type: none;
       }
       
       li a {
